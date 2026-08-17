@@ -1,6 +1,5 @@
 # FODiff
 
-Official repository for:
 
 **Towards High-Perception Demoiréing: A Perception-Oriented 4K Benchmark and Frequency-decoupled One-step Diffusion Model**
 
